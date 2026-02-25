@@ -1,4 +1,7 @@
 -- Configuração do GIT
 git config --global user.name LaisBressanim
-git config --global user.name laismartim2009@gmail.com
+git config --global user.email laismartim2009@gmail.com
+
+--Criar um projeto vazio
+npx create-expo-app@latest calculadora --template blank
 
